@@ -8,7 +8,7 @@ I started with game server development and evolved into building backend systems
 
 ## 🚀 Featured Projects
 
-- 🏗️ [**PSCore**](https://github.com/xBeastMode/PSCore)  
+- 🏗️ [**PSCore**](https://github.com/xBeastMode/PSCore)  (Abandoned - 2023)
   Large-scale core plugin used in a **production prison server** (progression, economy, gameplay systems)
 
 - ⚡ [**LightHop**](https://github.com/xBeastMode/LightHop)  
