@@ -65,19 +65,18 @@
 
 ---
 
-## 🧠 Focus Areas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,go,php,java" />
+  <img src="https://skillicons.dev/icons?i=cpp,go,php,java,javascript" />
 </p>
 
-<!-- Save skills.svg from the circular badge SVG and reference it below -->
-<p align="center">
-  <img src="skills.svg" alt="Focus areas and tech stack circular badges" />
-</p>
+## 🛠️ Tech Stack
 
----
-
+| Category | Stack |
+|----------|-------|
+| 🚀 **Primary Focus** | C++ (systems programming, networking)<br>Go (backend development, UDP services) |
+| 💼 **Strong Experience** | PHP (backend development, production systems, PocketMine-MP plugins, MySQL/SQLite) |
+| 📚 **Familiar** | Java (object-oriented programming, data structures, coursework projects)<br>JavaScript (basic scripting, web fundamentals) |
 ## 🎓 Background
 
 Currently studying **Computer Systems Engineering**, combining academic theory with hands-on development.
