@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2EA44F&center=true&vCenter=true&width=500&lines=Computer+Systems+Engineering+Student;10%2B+Years+of+Programming+Experience;Systems+%7C+Networking+%7C+Low-level+Dev" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Computer+Systems+Engineering+Student;Systems+%7C+Networking+%7C+Low-level+Dev" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,8 +25,13 @@
 </p>
 
 <p align="center">
-  My name is <strong>Angel Maya</strong> — a Computer Systems Engineering student with <strong>10+ years of programming experience</strong>, focused on systems programming, networking, and low-level development.<br/>
-  Started with game server development and evolved into building backend systems and low-level tools to understand how software truly works under the hood.
+
+  My name is <strong>Angel Maya</strong> — a Computer Systems Engineering student focused on systems programming, networking, and low-level development.<br/>
+
+  Started with game server development and evolved into building backend systems and low-level tools to understand how software truly works under the hood.<br/>
+
+  <strong>Languages:</strong> English (Fluent) 🇺🇸 | Spanish (Native) 🇲🇽
+
 </p>
 
 ---
@@ -63,7 +68,7 @@
 ## 🧠 Focus Areas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,go,php" />
+  <img src="https://skillicons.dev/icons?i=cpp,go,php,java" />
 </p>
 
 <!-- Save skills.svg from the circular badge SVG and reference it below -->
