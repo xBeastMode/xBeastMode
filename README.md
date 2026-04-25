@@ -8,9 +8,7 @@ I started with game server development and evolved into building backend systems
 
 ## 🚀 Featured Projects
 
-- 🏗️ [**PSCore**](https://github.com/xBeastMode/PSCore)
-  (Abandoned - 2023)
-  Large-scale core plugin used in a **production prison server** (progression, economy, gameplay systems)
+### ⚙️ Systems / Networking Projects
 
 - ⚡ [**LightHop**](https://github.com/xBeastMode/LightHop)  
   Minimal HTTP server in **C++23**, exploring sockets and low-level I/O  
@@ -19,10 +17,21 @@ I started with game server development and evolved into building backend systems
   UDP proxy for Minecraft traffic (archived due to protocol changes)
 
 - 🖼️ [**PNGReader**](https://github.com/xBeastMode/PNGReader)  
-  Work-in-progress PNG parser focused on binary formats and decoding  
+  Work-in-progress PNG parser focused on binary formats and decoding
+---
 
-- 🌍 [**WorldInventory**](https://github.com/xBeastMode/WorldInventory)  
-  Inventory system with **MySQL/SQLite** support for multi-world servers  
+### 🧩 PocketMine-MP Plugins
+
+- 🏗️ [**PSCore**](https://github.com/xBeastMode/PSCore)
+  (Abandoned - 2023)  
+  Large-scale **PocketMine-MP core plugin** used in a **production prison server** (progression, economy, gameplay systems)
+
+- 🎮 [**Jager**](https://github.com/xBeastMode/Jager)
+  **PocketMine-MP minigame plugin** created for event gameplay during Euphoria server events. Designed around phased survival mechanics and asymmetric gameplay roles (Hunter vs Innocents)
+
+- 🌍 [**WorldInventory**](https://github.com/xBeastMode/WorldInventory)
+  **PocketMine-MP plugin** with MySQL/SQLite support for managing player inventories across worlds
+ 
 
 ---
 
