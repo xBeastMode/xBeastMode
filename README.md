@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Computer+Systems+Engineering+Student;Systems+%7C+Networking+%7C+Low-level+Dev" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Systems+%7C+Networking+%7C+Low-level+Dev" alt="Typing SVG" />
   </a>
 </p>
 
